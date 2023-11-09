@@ -1,7 +1,7 @@
 {
   "user": [
     {
-      "pseudo": "thevalll",
+      "pseudo": "Val",
       "id": "thevalll",
       "statut": "do not disturb",
       "custom_statut": "hello word",
@@ -36,7 +36,7 @@
       "server_name": "TheLab",
       "server_users": [
         {
-          "pseudo": "thevalll",
+          "pseudo": "Val",
           "id": "thevalll",
           "statut": "do not disturb",
           "custom_statut": "hello word",
@@ -65,12 +65,12 @@
             {
               "message_content": "bonjour",
               "from": "bxrdyy",
-              "at": "12h06"
+              "at": "Today at 12h06"
             },
             {
               "message_content": "Bonsoir ;)",
               "from": "thevalll",
-              "at": "12h09"
+              "at": "Today at 12h09"
             }
           ]
         },
@@ -85,12 +85,12 @@
             {
               "message_content": "D'accord",
               "from": "thevalll",
-              "at": "12h14"
+              "at": "Monday at 12h14"
             },
             {
               "message_content": "bonsoir",
               "from": "xiaoshin",
-              "at": "12h47"
+              "at": "Monday at 12h47"
             }
           ]
         }
@@ -100,7 +100,7 @@
       "server_name": "JavaScript",
       "server_users": [
         {
-          "pseudo": "thevalll",
+          "pseudo": "Val",
           "id": "thevalll",
           "statut": "do not disturb",
           "custom_statut": "hello word",
@@ -118,6 +118,41 @@
               "at": "12h06"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "direct_message": [
+    {
+      "pseudo": "birdy",
+      "id": "bxrdyy",
+      "statut": "offline",
+      "custom_statut": "",
+      "pfp": "https://archive.org/download/discordprofilepictures/discordblue.png",
+      "messages": [
+        {
+          "from": "birdy",
+          "content": "Salut",
+          "at": "Today at 23h04"
+        },
+        {
+          "from": "TheVal",
+          "content": "Yooo :)",
+          "at": "Today at 23h08"
+        }
+      ]
+    },
+    {
+      "pseudo": "pierre_Mgt",
+      "id": "pierre_mgt",
+      "statut": "online",
+      "custom_statut": "skye",
+      "pfp": "https://cdn.discordapp.com/avatars/439560376942723073/b053efdae8c5cf1a2d4937d0cb05d7d9.webp?size=128",
+      "messages": [
+        {
+          "from": "pierre_Mgt",
+          "content": "Saluttt",
+          "at": "Today at 00h54"
         }
       ]
     }
